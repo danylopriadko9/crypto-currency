@@ -20,6 +20,11 @@ Stack
   style="width: 50px">
 </div>
 
+TODO
+1. Typescript
+2. Re-render by secound
+3. Color of changes (red price or green)
+
 
 
 
