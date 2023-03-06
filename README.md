@@ -1,6 +1,7 @@
 Stack 
 
-<img
+<div style='display: flex; gap: 10px;'>
+  <img
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
   alt="Alt text"
   title="Optional title"
@@ -17,6 +18,8 @@ Stack
   alt="Alt text"
   title="Optional title"
   style="width: 50px">
+</div>
+
 
 
 
